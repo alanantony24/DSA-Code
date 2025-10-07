@@ -210,27 +210,3 @@ See `ANALYSIS_SUMMARY.md` for detailed findings and recommendations.
 | lightgbm      | Latest  | Gradient boosting     |
 | catboost      | Latest  | Gradient boosting     |
 
----
-
-## 👨‍💻 Author
-
-**Alan Antony**
-
-- GitHub: [@alanantony24](https://github.com/alanantony24)
-- Repository: [DSA-Code](https://github.com/alanantony24/DSA-Code)
-
----
-
-## 📝 License
-
-This project is for educational and research purposes.
-
----
-
-## 🤝 Contributing
-
-Issues and suggestions are welcome! Please open an issue or submit a pull request.
-
----
-
-**Note:** This is a research project demonstrating ML capabilities. For production medical applications, significantly more data, clinical validation, and regulatory approval would be required.
